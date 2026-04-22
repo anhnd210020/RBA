@@ -1,4 +1,3 @@
-````markdown
 # Risk-Based Authentication — Anomaly Detection
 
 This repository contains three Jupyter notebooks that build a full machine learning pipeline for detecting anomalous login behavior and potential **Account Takeover (ATO)** events in authentication logs.
@@ -282,5 +281,3 @@ Some features such as user agent strings can have very high cardinality, making 
 
 This project explores both **supervised** and **unsupervised** approaches for anomaly detection in risk-based authentication systems using login event data.
 
-```
-```
